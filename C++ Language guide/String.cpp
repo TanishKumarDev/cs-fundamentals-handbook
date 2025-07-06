@@ -16,6 +16,8 @@ void demoConcatenation() {
     string lastName = "Doe";
     string fullName = firstName + " " + lastName;
     cout << "Concatenation (+): " << fullName << endl;
+
+    // Logic: Concatenate strings using append() : appe
     string fullName2 = firstName.append(lastName);
     cout << "Concatenation (append): " << fullName2 << endl;
 }
@@ -129,6 +131,5 @@ int main() {
     cout << "Q2: Escape for double quotes? Answer: \"" << endl;
     cout << "Q3: Print without namespace? Answer: std::cout << \"Hello\";" << endl;
     cout << "Q4: C-style strings created with? Answer: char arrays" << endl;
-
     return 0;
 }
