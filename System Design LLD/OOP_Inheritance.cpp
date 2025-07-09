@@ -45,6 +45,25 @@ int main() {
 
     return 0;
 }
+/*
+🔍 Simple Definition:
+Inheritance = One class (child) reusing another class (parent)'s methods and properties.
+
+Helps in code reuse, and creating hierarchies.
+
+🧠 Real-Life Analogy: Vehicle → Car/Bike/Truck
+
+Vehicle class defines:
+    start(), stop(), fuel()
+
+Car, Bike, Truck inherit from Vehicle
+    → No need to rewrite same functionality
+
+➡️ Child classes reuse and extend parent functionality = Inheritance
+
+*/
+
+
 // 🧠 What's Happening?
 // Concept	Code
 // Base class -	Vehicle with methods start() and stop()
@@ -68,26 +87,3 @@ int main() {
 // Answer: All 3 methods will execute, with start() and stop() inherited from the parent, and openRoof() being specific to the child.
 
 /*
-
-/* Inheritance means:
-
-A class (child) can inherit the properties and methods of another class (parent).
-
-This leads to:
-- Code reuse
-- Creation of a hierarchy
-- Easier addition of new features
-
-Real Life Example:
-Imagine you create a Vehicle class.
-All vehicles have something in common: start(), stop()
-
-Then you create specific types:
-
-- Car
-- Bike
-- Truck
-
-All have the same start() method — so write it in one place and reuse it.
-That’s inheritance!
-*/

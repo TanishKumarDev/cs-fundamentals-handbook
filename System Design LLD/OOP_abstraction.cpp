@@ -90,3 +90,25 @@ int main() {
 
     return 0;
 }
+
+/*
+
+🔍 Simple Definition:
+Abstraction = Hiding complex internal implementation and showing only essential features to the user.
+Focus on what it does, not how it works.
+
+🧠 Real-Life Analogy: Car
+You just use:
+
+    - start()
+    - accelerate()
+    - brake()
+
+But you don’t know about:
+
+    - fuel injection system
+    - engine internals
+    - gearbox logic
+
+➡️ You get a simple interface, complex logic is hidden inside = Abstraction
+*/

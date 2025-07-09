@@ -82,3 +82,19 @@ int main() {
     return 0;
 }
 
+/*
+🔍 Simple Definition:
+Polymorphism = One function behaves differently in different contexts.
+
+Poly = many, Morphism = forms
+Means same interface, different behavior
+
+🧠 Real-Life Analogy: Remote Control
+Pressing "Play" button:
+    - On TV → plays show
+    - On AC → resumes cooling
+    - On Music System → plays song
+
+➡️ Same action (play) triggers different behavior depending on the device = Polymorphism
+
+*/
