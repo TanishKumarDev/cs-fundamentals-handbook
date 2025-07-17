@@ -15,10 +15,10 @@ There are two types of polymorphism in C++:
 
 */
 
-// Code Example: Function Overloading
 #include <iostream>
 using namespace std;
 
+// Code Example: Function Overloading
 class Calculator {
     public:
     // Add two integers
