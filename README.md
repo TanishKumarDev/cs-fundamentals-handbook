@@ -1,22 +1,42 @@
 # CS Fundamentals Handbook
 
-This repository is a consolidated collection of core Computer Science concepts and practical notes created while learning various domains like:
-
-- C++ Programming
-- JavaScript Basics & Advanced
-- Operating Systems (OS)
-- Computer Networks (CN)
-- Database Management Systems (DBMS)
-- System Design (HLD + LLD)
-- Problem-Solving & DSA
-
-It serves as my personal knowledge base — structured, refined, and continuously updated while I deepen my understanding of CS fundamentals.
+This repository is my **personal learning journal** for Computer Science concepts and programming.  
+All learning, notes, and practice go here for **accountability, revision, and continues learning**.
 
 ---
 
-📚 Ideal for:
-- Interview Preparation
-- Revision
-- Teaching Support
-- Daily Learning Reference
+## 📂 Subjects/Topics
 
+- **CS Core Fundamentals** – Concepts from GfG Core CS courses  
+- **DBMS Concepts**  
+- **OS Concepts**  
+- **Computer Networks Concepts**  
+- **System Design Concepts**
+  - LLD  
+  - HLD  
+- **Mathematics for CS**  
+- **Python Concepts**  
+- **C++ Concepts**
+
+---
+
+## 🚀 Future Learning
+- Java / JavaScript Concepts  
+- Full-Stack Web Development (MERN)  
+- AI / ML Basics  
+- Advanced System Design  
+- DevOps & Cloud  
+
+---
+
+## 💡 Notes
+- This repo is primarily for **learning, documenting, and revision**.  
+- Any corrections, updates, or improvements will be reflected here as I learn.  
+
+---
+
+
+<p align="center">
+  “Tell me and I forget. Teach me and I remember. Involve me and I learn.” <br>
+  — <strong>Benjamin Franklin</strong>
+</p>
