@@ -1002,7 +1002,7 @@ int main() {
 👉 ISP = “Many small interfaces are better than one fat interface.”
 👉 Clients should only know what’s **relevant** to them.
 
-## Dependency Inversion Principle (DIP) — Beginner-Friendly
+## Dependency Inversion Principle (DIP)
 
 ### 1. **What is DIP?**
 
@@ -1210,3 +1210,7 @@ L = Subclasses must behave like parents
 I = Many small interfaces, not one fat interface
 
 D = Depend on abstractions, not concrete things
+
+
+## SOLID with UML Diagram
+👉 https://levelup.gitconnected.com/solid-design-principles-simplified-with-uml-8432a3406248
