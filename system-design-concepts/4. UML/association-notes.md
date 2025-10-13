@@ -97,8 +97,7 @@ Teacher Mr. Smith has students:
 
 ## UML Diagram Representation
 
-Here’s how it looks in a UML class diagram:
-![alt text](image.png)
+
 * **Solid line** = Association
 * No filled/empty diamond = just a basic connection (not Aggregation/Composition).
 * Multiplicity could be added:
